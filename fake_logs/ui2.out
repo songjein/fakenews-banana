@@ -1,0 +1,122 @@
+names loading start...
+names loading ended
+synonyms loading start...
+212183
+synonyms loading ended
+Connecting to tagger server...
+Connecting to tagger server...
+Mission type: 2, Test file name: testset2.txt
+Alpha score: 0.3
+Connected DJRank socket(tcp://127.0.0.1:17500)
+Connected CGTK socket(tcp://localhost:17009)
+Connected TA socket(tcp://10.35.32.203:8282)
+Loading query set
+  The number of query set: 500
+Searching djrank result
+ [10/500] Query ID: 2_00010
+ [20/500] Query ID: 2_00020
+ [30/500] Query ID: 2_00030
+ [40/500] Query ID: 2_00040
+ [50/500] Query ID: 2_00050
+ [60/500] Query ID: 2_00060
+ [70/500] Query ID: 2_00070
+ [80/500] Query ID: 2_00080
+ [90/500] Query ID: 2_00090
+ [100/500] Query ID: 2_00100
+ [110/500] Query ID: 2_00110
+ [120/500] Query ID: 2_00120
+ [130/500] Query ID: 2_00130
+ [140/500] Query ID: 2_00140
+ [150/500] Query ID: 2_00150
+ [160/500] Query ID: 2_00160
+ [170/500] Query ID: 2_00170
+ [180/500] Query ID: 2_00180
+ [190/500] Query ID: 2_00190
+ [200/500] Query ID: 2_00200
+ [210/500] Query ID: 2_00210
+ [220/500] Query ID: 2_00220
+ [230/500] Query ID: 2_00230
+ [240/500] Query ID: 2_00240
+ [250/500] Query ID: 2_00250
+ [260/500] Query ID: 2_00260
+ [270/500] Query ID: 2_00270
+ [280/500] Query ID: 2_00280
+ [290/500] Query ID: 2_00290
+ [300/500] Query ID: 2_00300
+ [310/500] Query ID: 2_00310
+ [320/500] Query ID: 2_00320
+ [330/500] Query ID: 2_00330
+ [340/500] Query ID: 2_00340
+ [350/500] Query ID: 2_00350
+ [360/500] Query ID: 2_00360
+ [370/500] Query ID: 2_00370
+ [380/500] Query ID: 2_00380
+ [390/500] Query ID: 2_00390
+ [400/500] Query ID: 2_00400
+ [410/500] Query ID: 2_00410
+ [420/500] Query ID: 2_00420
+ [430/500] Query ID: 2_00430
+ [440/500] Query ID: 2_00440
+ [450/500] Query ID: 2_00450
+ [460/500] Query ID: 2_00460
+ [470/500] Query ID: 2_00470
+ [480/500] Query ID: 2_00480
+ [490/500] Query ID: 2_00490
+ [500/500] Query ID: 2_00500
+Preprocessing ana datas
+Scoring by pscorer
+ [10/500] Query ID: 2_00010
+ [20/500] Query ID: 2_00020
+ [30/500] Query ID: 2_00030
+ [40/500] Query ID: 2_00040
+ [50/500] Query ID: 2_00050
+ [60/500] Query ID: 2_00060
+ [70/500] Query ID: 2_00070
+ [80/500] Query ID: 2_00080
+ [90/500] Query ID: 2_00090
+ [100/500] Query ID: 2_00100
+ [110/500] Query ID: 2_00110
+ [120/500] Query ID: 2_00120
+ [130/500] Query ID: 2_00130
+ [140/500] Query ID: 2_00140
+ [150/500] Query ID: 2_00150
+ [160/500] Query ID: 2_00160
+ [170/500] Query ID: 2_00170
+ [180/500] Query ID: 2_00180
+ [190/500] Query ID: 2_00190
+ [200/500] Query ID: 2_00200
+ [210/500] Query ID: 2_00210
+ [220/500] Query ID: 2_00220
+ [230/500] Query ID: 2_00230
+ [240/500] Query ID: 2_00240
+ [250/500] Query ID: 2_00250
+ [260/500] Query ID: 2_00260
+ [270/500] Query ID: 2_00270
+ [280/500] Query ID: 2_00280
+ [290/500] Query ID: 2_00290
+ [300/500] Query ID: 2_00300
+ [310/500] Query ID: 2_00310
+ [320/500] Query ID: 2_00320
+ [330/500] Query ID: 2_00330
+ [340/500] Query ID: 2_00340
+ [350/500] Query ID: 2_00350
+ [360/500] Query ID: 2_00360
+ [370/500] Query ID: 2_00370
+ [380/500] Query ID: 2_00380
+ [390/500] Query ID: 2_00390
+ [400/500] Query ID: 2_00400
+ [410/500] Query ID: 2_00410
+ [420/500] Query ID: 2_00420
+ [430/500] Query ID: 2_00430
+ [440/500] Query ID: 2_00440
+ [450/500] Query ID: 2_00450
+ [460/500] Query ID: 2_00460
+ [470/500] Query ID: 2_00470
+ [480/500] Query ID: 2_00480
+ [490/500] Query ID: 2_00490
+ [500/500] Query ID: 2_00500
+Waiting msg from Apple
+  Searched
+Scoring by mscorer
+Final scoring
+Finished all
